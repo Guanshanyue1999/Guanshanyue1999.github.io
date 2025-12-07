@@ -86,7 +86,7 @@
                         <strong>Ph.D. Candidate in Cardiology</strong> - Peking University Health Science Center (Current)
                     </li>
                     <li>
-                        <strong>M.D., Master's in Cardiovascular Medicine</strong> - South China University of Technology (2025)
+                        <strong>Master of Medicine in Internal Medicine (Cardiovascular Diseases)</strong> - South China University of Technology (2025)
                     </li>
                     <li>
                         <strong>Bachelor's in Clinical Medicine</strong> - China Medical University (2022)
@@ -110,6 +110,13 @@
         <div class="container">
             <h2 class="section-title">Research Interests</h2>
             <div class="bio-content">
+                <h3>Research Focus</h3>
+                <ul class="education-list">
+                    <li><strong>Familial Hypercholesterolemia (FH)</strong> - Leveraging whole-exome sequencing data from Chinese populations to refine variant interpretation, improve risk stratification, and inform updated diagnostic and management guidelines for FH</li>
+                    <li><strong>PCSK9 Beyond LDLR</strong> - Investigating non-LDLR functional mechanisms of PCSK9, including its effects on vascular inflammation, thrombosis, and immune regulation, with implications for optimizing lipid-lowering strategies and reducing ASCVD risk in high-risk populations</li>
+                    <li><strong>Hypertension & Cardiometabolic Diseases</strong> - Applying genetic and epidemiological approaches to understand how blood pressure, lipid disorders, and genetic variants influence cardiovascular and cerebrovascular disease outcomes</li>
+                </ul>
+
                 <h3>Methodological Interests</h3>
                 <ul class="education-list">
                     <li><strong>Mendelian randomization</strong> - Two-sample, multivariable, bidirectional, and mediation MR; drug-target MR to proxy antihypertensive drug classes and target gene expression</li>
@@ -336,7 +343,7 @@
 
         function renderPublication(pub) {
             const doiLink = pub.doi ? `https://doi.org/${pub.doi}` : (pub.cnkiUrl || '#');
-            const jcrClass = pub.jcr ? `q${pub.jcr.toLowerCase().replace('jcr ', '').replace('中文核心', 'cn')}` : '';
+            const jcrClass = pub.jcr === '中文核心' ? 'qcn' : pub.jcr.toLowerCase();
             const jcrBadge = pub.jcr === '中文核心'
                 ? `<span class="pub-badge" style="background:#9c27b0">中文核心</span>`
                 : `<span class="pub-badge ${jcrClass}">JCR ${pub.jcr}</span>`;
