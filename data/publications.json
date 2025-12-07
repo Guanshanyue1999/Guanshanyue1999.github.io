@@ -1,0 +1,110 @@
+{
+    "lastUpdated": "2025-12-07",
+    "note": "Impact factors are from JCR 2024. Update this file annually.",
+    "publications": {
+        "firstAuthor": [
+            {
+                "id": "zheng2025art",
+                "title": "Association of antihypertensive drug target genes with alzheimer's disease: a mendelian randomization study",
+                "authors": "Zheng H, Chen C, Feng Y",
+                "journal": "Alzheimers Res Ther",
+                "year": 2025,
+                "volume": "17(1):18",
+                "doi": "10.1186/s13195-025-01671-4",
+                "jcr": "Q1",
+                "if": 7.9
+            },
+            {
+                "id": "zheng2025jch",
+                "title": "Dissecting Causal Relationships Between Antihypertensive Drug, Gut Microbiota, and Type 2 Diabetes Mellitus and Its Complications: A Mendelian Randomization Study",
+                "authors": "Zheng H, Wu S, Wang W, Qiu W, Feng Y",
+                "journal": "J Clin Hypertens (Greenwich)",
+                "year": 2025,
+                "volume": "27(1):e14968",
+                "doi": "10.1111/jch.14968",
+                "jcr": "Q3",
+                "if": 2.7
+            },
+            {
+                "id": "zheng2025stroke",
+                "title": "Association of antihypertensive drug target genes with stroke subtypes: A Mendelian randomization study",
+                "authors": "Zheng H, Wang W, Qiu W, Feng Y",
+                "journal": "J Stroke Cerebrovasc Dis",
+                "year": 2025,
+                "volume": "34(3):108244",
+                "doi": "10.1016/j.jstrokecerebrovasdis.2025.108244",
+                "jcr": "Q4",
+                "if": 2.0
+            },
+            {
+                "id": "zheng2024nmcd",
+                "title": "Association between walking pace and heart failure: A Mendelian randomization analysis",
+                "authors": "Zheng H, Wang W, Chen C, Feng Y",
+                "journal": "Nutr Metab Cardiovasc Dis",
+                "year": 2024,
+                "volume": "34(12):2713-2719",
+                "doi": "10.1016/j.numecd.2024.07.012",
+                "jcr": "Q2",
+                "if": 3.3
+            }
+        ],
+        "coAuthor": [
+            {
+                "id": "wu2025jch",
+                "title": "Sex-Specific Association of Left Ventricular Hypertrophy With Cardiovascular Events in High-Risk of Cardiovascular Disease Population: Findings From the Sub-Cohort of China PEACE Million Persons Project",
+                "authors": "Wu S, Feng X, Zheng H, et al.",
+                "journal": "J Clin Hypertens (Greenwich)",
+                "year": 2025,
+                "volume": "27(5):e70072",
+                "doi": "10.1111/jch.70072",
+                "jcr": "Q3",
+                "if": 2.7
+            },
+            {
+                "id": "qiu2025qjm",
+                "title": "Sex- and age-specific differences in the associations between comorbidity and incident heart failure",
+                "authors": "Qiu W, Cai A, Wu S, Zhu Y, Zheng H, Feng Y",
+                "journal": "QJM",
+                "year": 2025,
+                "volume": "118(7):514-523",
+                "doi": "10.1093/qjmed/hcaf080",
+                "jcr": "Q2",
+                "if": 3.6
+            },
+            {
+                "id": "qiu2025hr",
+                "title": "Hypertension awareness, treatment, control, and prognosis: insights from the sub-cohort of China PEACE million persons project",
+                "authors": "Qiu W, Cai A, Wu S, et al. (incl. Zheng H)",
+                "journal": "Hypertens Res",
+                "year": 2025,
+                "volume": "48(3):1012-1023",
+                "doi": "10.1038/s41440-024-02037-3",
+                "jcr": "Q2",
+                "if": 3.0
+            },
+            {
+                "id": "qiu2024ejpc",
+                "title": "Sex differences in long-term heart failure prognosis: a comprehensive meta-analysis",
+                "authors": "Qiu W, Wang W, Wu S, Zhu Y, Zheng H, Feng Y",
+                "journal": "Eur J Prev Cardiol",
+                "year": 2024,
+                "volume": "31(17):2013-2023",
+                "doi": "10.1093/eurjpc/zwae256",
+                "jcr": "Q1",
+                "if": 8.0
+            },
+            {
+                "id": "luo2023cnki",
+                "title": "Symplicity Spyral 肾动脉多极射频消融导管用于治疗难治性高血压病 1 例并文献回顾",
+                "authors": "罗淞元, 郑赫, 吴樱, 蔡安平, 谭宁, 冯颖青",
+                "journal": "中国介入心脏病学杂志",
+                "year": 2023,
+                "volume": "31(09):717-720",
+                "doi": null,
+                "cnkiUrl": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoq6LcVE9LYPpMSrZJXdmDYVIxjXI-Zn2RQ==",
+                "jcr": "中文核心",
+                "if": null
+            }
+        ]
+    }
+}
